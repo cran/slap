@@ -1,0 +1,12 @@
+5a665cbe7e248a8e2a9b6c145ab3d2d4 *DESCRIPTION
+28b2af2caaaab9a7f1836da1291cdd44 *LICENSE
+2ac517895f05653a784312dddc8afb06 *NAMESPACE
+515b7097a2bd2635b11eac9c2a70fbc8 *NEWS.md
+f15b25fcf4075083c0e698c2f69c406e *R/slap.R
+a2a5193ac409987ce30f243b53c3a3d5 *R/zzz.R
+699c178cd910cf54bab81793c8838c0c *README.md
+be0f80ddb69fe7a3bec9a2d8391e9c8c *man/figures/logo.png
+c20d6ff7649e911e95f682a138232a06 *man/slap.Rd
+306c29452aeb20d39e3f9c9e1b1c26e6 *tests/testthat.R
+736cc4c707e691e24388722434bb26cf *tests/testthat/_snaps/slap.md
+29428cd2c4125563b9f0a3a4a8254a3d *tests/testthat/test-slap.R
